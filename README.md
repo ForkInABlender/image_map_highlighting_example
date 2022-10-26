@@ -13,3 +13,5 @@ What is needed for image maps & highlighting them:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;* links<br>
 
 http://web.archive.org/web/20221026002814/https://medium.com/hackernoon/how-to-use-jquery-and-html5-map-tag-to-highlight-image-areas-on-mouseover-b7c728947ed3
+
+https://youtu.be/OHBx0aWVWiM
